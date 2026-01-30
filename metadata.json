@@ -1,0 +1,7 @@
+{
+  "name": "Bol India English",
+  "description": "A Hindi-to-English speaking practice app designed for beginners, featuring daily lessons, vocabulary, and AI-powered conversation practice with Hindi explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
